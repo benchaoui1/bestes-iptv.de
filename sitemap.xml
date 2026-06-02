@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://bestes-iptv.de/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-home.png</image:loc><image:title>Bestes IPTV 2026 — Testsieger Vergleich Deutschland</image:title><image:caption>Unabhängiger IPTV-Test für Deutschland 2026</image:caption></image:image>
+    <image:image><image:loc>https://bestes-iptv.de/images/logo.svg</image:loc><image:title>Bestes-IPTV.de Logo</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/iptv-kaufen.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-kaufen.png</image:loc><image:title>IPTV Kaufen 2026 — Pakete ab €19,99</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/ueber-uns.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/avatar-mw.png</image:loc><image:title>Markus Weber — Chefredakteur</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/kontakt.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bestes-iptv.de/blog/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-blog.png</image:loc><image:title>IPTV Blog &amp; Ratgeber</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/blog/iptv-auf-firestick-einrichten.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-firestick.jpg</image:loc><image:title>IPTV auf Firestick einrichten</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/blog/smart-iptv-einrichten.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-smarttv.jpg</image:loc><image:title>Smart IPTV einrichten Samsung LG</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/blog/iptv-smarters-vs-tivimate.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-smarters.png</image:loc><image:title>IPTV Smarters vs TiviMate</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/blog/was-ist-iptv.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://bestes-iptv.de/images/og-was-ist-iptv.png</image:loc><image:title>Was ist IPTV — einfach erklärt</image:title></image:image>
+  </url>
+
+  <url>
+    <loc>https://bestes-iptv.de/impressum.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/datenschutz.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://bestes-iptv.de/agb.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

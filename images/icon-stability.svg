@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="30-Tage Stabilitätstest">
+  <title>30-Tage IPTV Stabilitätstest</title>
+  <circle cx="32" cy="32" r="28" fill="none" stroke="#C8102E" stroke-width="4"/>
+  <path d="M 32 16 L 32 32 L 44 38" stroke="#FFD600" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="32" y="56" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#FFD600">30 TAGE</text>
+</svg>

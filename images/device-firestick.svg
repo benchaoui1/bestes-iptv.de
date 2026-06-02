@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Amazon Firestick IPTV Setup">
+  <title>IPTV auf Amazon Fire TV Stick einrichten</title>
+  <rect x="20" y="15" width="60" height="20" rx="4" fill="#0a0a0a" stroke="#C8102E" stroke-width="2"/>
+  <rect x="35" y="35" width="30" height="40" rx="2" fill="#0a0a0a" stroke="#FFD600" stroke-width="2"/>
+  <circle cx="50" cy="55" r="6" fill="#FFD600"/>
+  <text x="50" y="92" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#fff">Firestick</text>
+</svg>

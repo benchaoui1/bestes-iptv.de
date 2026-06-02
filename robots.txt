@@ -1,0 +1,25 @@
+# Robots.txt für bestes-iptv.de
+# Aktualisiert: Juni 2026
+
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Sitemap
+Sitemap: https://bestes-iptv.de/sitemap.xml

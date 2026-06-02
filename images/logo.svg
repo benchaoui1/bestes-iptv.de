@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" role="img" aria-label="Bestes-IPTV.de Logo">
+  <title>Bestes-IPTV.de — Unabhängiges IPTV-Vergleichsportal Deutschland</title>
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0" stop-color="#C8102E"/>
+      <stop offset="1" stop-color="#FFD600"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="10" width="46" height="40" rx="8" fill="#0a0a0a" stroke="url(#lg)" stroke-width="2"/>
+  <polygon points="18,20 18,40 36,30" fill="#FFD600"/>
+  <text x="58" y="32" font-family="Poppins,Arial,sans-serif" font-size="20" font-weight="800" fill="#fff">BESTES</text>
+  <text x="58" y="50" font-family="Poppins,Arial,sans-serif" font-size="16" font-weight="700" fill="url(#lg)">-IPTV.DE</text>
+</svg>

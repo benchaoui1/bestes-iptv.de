@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="IPTV iPhone Android Smartphone">
+  <title>IPTV auf Smartphone — iOS und Android</title>
+  <rect x="30" y="8" width="40" height="74" rx="6" fill="#0a0a0a" stroke="#C8102E" stroke-width="2"/>
+  <rect x="34" y="14" width="32" height="58" rx="2" fill="#0f0f0f"/>
+  <polygon points="44,36 44,54 58,45" fill="#FFD600"/>
+  <text x="50" y="95" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#fff">Mobile</text>
+</svg>
